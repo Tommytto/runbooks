@@ -1,0 +1,7 @@
+[main]
+128.199.37.107
+
+[main:vars]
+ansible_connection=ssh
+ansible_user=root
+ansible_ssh_private_key_file=~/.ssh/digital_ocean
